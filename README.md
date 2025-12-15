@@ -8,6 +8,7 @@ Dec 15th, 2025
 ** Answer ** 
 
 I interpret user needs by focusing on the why behind a requested feature, using methods such as stakeholder interviews, direct feedback, and reviewing existing workflows. Understaind the problem a user is trying to solve helps ensure the solution delivers real value rather than just adding functionality. 
+
 User Stories help translate those needs into clear, actionable requirements by framing them from the user's perspective. Using the format "As a user, I want X so that Y" keeps the focus on value instead of technical details, making it easier for the team to prioritize work, estimate effort, and validate that the solution meets user expectations. 
 
 ### Question 2a: How do I approach developing programs? 
