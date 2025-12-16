@@ -14,5 +14,16 @@ User Stories help translate those needs into clear, actionable requirements by f
 ### Question 2a: How do I approach developing programs? 
 ### Question 2b: What Agile process do I hope to incorporate into my future development work?
 
+** Answer **
+
+I approach development in an iterative way by breaking work into small, manageable pieces and improving the product through regular feedback and testing. This allows issues to be identified early and changes to be made without disrupting the entire project. 
+
+In the future, I want to continue using Agile practices like Continuous integration/ continuous delivery to automate testing and deployment, along with daily stand ups to keep the team aligned and quickly address blockers. 
+
 
 ### Question 3: What does it mean to be a good team member in software development?
+
+** Answer **
+
+Being a good team member means putting the team's success first. This includes communicating openly, taking responsibility for your work, and being willing to help others when needed. 
+It also means being respectful during dicussions and code reviews, staying open to feedback, and maintaining a positive collaborative attitude so the team can work effectively together. 
